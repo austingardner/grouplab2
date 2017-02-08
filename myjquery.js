@@ -9,7 +9,7 @@ $(document).ready(function() {
 
  var myurl= "http://swapi.co/api/person/";
   myurl += value;
-  
+  myurl += '/';
   console.log(myurl);
   $.ajax({
     url : myurl,
