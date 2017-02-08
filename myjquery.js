@@ -21,7 +21,7 @@ $(document).ready(function() {
       var hair_color = parsed_json['hair_color'];
       var skin_color = parsed_json['skin_color'];
       var birth_year = parsed_json['birth_year'];
-      everything = "<ul style='list-style: none;'>";
+      everything = "<ul>";
       everything += "<li>Name: "+name;
       everything += "<li>Height: "+height+" cm";
       everything += "<li>Mass: "+mass+" kg";
