@@ -7,7 +7,7 @@ $(document).ready(function() {
   e.preventDefault();
 //$("#displayCity").text(value);
 
- var myurl= "http://swapi.co/api/person/";
+ var myurl= "http://swapi.co/api/people/";
   myurl += value;
   myurl += '/';
   console.log(myurl);
