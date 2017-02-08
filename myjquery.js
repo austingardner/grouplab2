@@ -23,8 +23,8 @@ $(document).ready(function() {
       var birth_year = parsed_json['birth_year'];
       everything = "<ul>";
       everything += "<li>Name: "+name;
-      everything += "<li>Height: "+height;
-      everything += "<li>Mass: "+mass;
+      everything += "<li>Height: "+height+" cm";
+      everything += "<li>Mass: "+mass+" kg";
       everything += "<li>Hair Color: "+hair_color;
       everything += "<li>Skin Color: "+skin_color;
       everything += "<li>Birth Year: "+birth_year;
