@@ -3,3 +3,5 @@ This project is a simple one page application that starts out without any star w
 This was made as a project for a class. It may require the downloading of a chrome extension: https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc/related
 
 <img width="1273" alt="initial star wars page" src="https://user-images.githubusercontent.com/25092249/35261030-9ac5c016-ffcb-11e7-9f84-b6de51c511c9.png">
+
+<img width="1267" alt="after ajax call star wars" src="https://user-images.githubusercontent.com/25092249/35261124-0a6535d2-ffcc-11e7-8955-d9c73e87f0fb.png">
