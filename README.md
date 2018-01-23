@@ -2,3 +2,4 @@ This project is a simple one page application that starts out without any star w
 
 This was made as a project for a class. It may require the downloading of a chrome extension: https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc/related
 
+<img width="1273" alt="initial star wars page" src="https://user-images.githubusercontent.com/25092249/35261030-9ac5c016-ffcb-11e7-9f84-b6de51c511c9.png">
